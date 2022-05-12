@@ -1,0 +1,1 @@
+scp studtscm14@calc.cod.phystech.edu:/home/common/studtscm14/lammps-29Sep2021/examples/colloid/out.gif .
